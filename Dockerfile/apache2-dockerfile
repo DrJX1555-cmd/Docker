@@ -1,6 +1,6 @@
 # This is apache web server on Ubuntu server
 
-FROM ubuntu:12.04
+FROM ubuntu:focal
 
 MAINTAINER Ravi Shankar <arsr319@gmail.com>
 
